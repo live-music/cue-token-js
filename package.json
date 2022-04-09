@@ -11,7 +11,7 @@
     "ethereumjs-wallet": "^0.6.2",
     "loom-js": "^1.48.0",
     "loom-truffle-provider": "^0.11.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "secrets.js-grempe": "^1.1.0",
     "solidity-to-abi": "^1.0.4",
     "truffle-hdwallet-provider": "^1.0.5"
